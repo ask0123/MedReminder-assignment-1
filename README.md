@@ -1,3 +1,6 @@
+![Logo](images/logo.png)
+
+
 # Medication Reminder App
 
 A full-stack web application to help users manage their medication schedules and track their doses. Built with React, TypeScript, and Node.js.
