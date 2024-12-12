@@ -1,4 +1,4 @@
-![Logo](images/logo.png)
+![Akash](https://github.com/ask0123/MedReminder-assignment-1/blob/1036baba662f65335f138c79689a4afb2b0d0fc1/src/medremain.png)
 
 
 # Medication Reminder App
